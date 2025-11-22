@@ -70,10 +70,15 @@ A Studio Ghibli-inspired digital portrait of a person, keeping the same pose and
 
 ### Images
 Image 1: Original Realism Portrait
-Image 2: Studio Ghibli-Stylized Portrait
+Image 2: Refined image
+Image 3: Studio Ghibli-Stylized Portrait
 
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/40914985-b488-4257-9bcd-1c1ae76ebaa6" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/27dbaeb6-39ba-4d85-8dad-f9cd8b979256" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7014bf64-569d-4be7-b465-8b71b462c637" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8d2e270d-a3e7-4e3d-86b0-8aafae5db722" />
+
+
 
 
 ## Conclusion
